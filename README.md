@@ -26,8 +26,8 @@ This project uses **Python (EDA)** and **Power BI** to analyze a bank’s loan p
 
 Example images used in this README:
 
-![Bank Loan Dashboard – Overview](/mnt/data/Bank Loan Analysis 1.jpg)
-![Bank Loan Dashboard – Segment Analysis](/mnt/data/Bank Loan Analysis 2.jpg)
+![Bank Loan Dashboard – Overview](https://github.com/DinakarShetty/Bank-Loan-Analysis-Project/blob/main/Bank%20Loan%20Analysis%201.jpg)
+![Bank Loan Dashboard – Segment Analysis](https://github.com/DinakarShetty/Bank-Loan-Analysis-Project/blob/main/Bank%20Loan%20Analysis%202.jpg)
 
 ---
 
